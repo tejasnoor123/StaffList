@@ -1,0 +1,49 @@
+.login-page {
+    background-color: green;
+    min-height: 300px;
+    padding-top: 60px;
+    text-align: center;
+}
+
+.login-page input {
+    display: block;
+    width: 175px;
+    height: 20px;
+    margin: 0 auto 20px auto;
+    padding: 2px;
+    font-size: 14px;
+}
+
+.login-page button {
+    display: block;
+    margin: 0 auto 20px auto;
+    font-size: 14px;
+}
+
+.login-page .google-button {
+    margin-top: 25px;
+}
+
+.login-page h2 {
+    color: white;
+    margin-bottom: 20px;
+}
+
+.login-page p {
+    margin-top: 25px;
+    font-size: 16px;
+    color: rgb(0, 0, 0);
+}
+
+.login-page a {
+    color: #ffffff;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.login-page .status-message {
+    margin: 10px auto;
+    font-weight: bold;
+    color: #ffffff;
+    max-width: 400px;
+}

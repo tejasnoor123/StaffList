@@ -1,0 +1,59 @@
+.sign-page {
+    background-color: green;
+    min-height: 400px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+.sign-page h2 {
+    color: white;
+    
+}
+
+.sign-page input {
+    display: block;
+    width: 220px;
+    height: 24px;
+    margin: 0 auto 16px auto;
+    font-size: 14px;
+    
+    
+}
+
+.sign-page button {
+    display: block;
+    margin: 0 auto 16px auto;
+    font-size: 14px;
+    
+    
+
+}
+
+.sign-page .google-button {
+    margin-top: 20px;
+    background-color: white;
+    color: #333;
+    
+}
+
+.sign-page p {
+    margin-top: 20px;
+    font-size: 15px;
+    color: #000;
+}
+
+.sign-page a {
+    color: #ffffff;
+    
+    font-weight: bold;
+   
+}
+
+.sign-page .status-message {
+    margin: 10px auto;
+    
+    color: #ffffff;
+    
+    padding: 8px;
+}
